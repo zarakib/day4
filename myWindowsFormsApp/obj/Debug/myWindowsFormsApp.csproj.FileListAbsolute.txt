@@ -1,0 +1,10 @@
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.exe.config
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.exe
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.pdb
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csprojAssemblyReference.cache
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.Form1.resources
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.Properties.Resources.resources
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csproj.GenerateResource.cache
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.exe
+E:\Dip\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.pdb
